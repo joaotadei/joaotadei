@@ -53,4 +53,4 @@ Estou atuando como Desenvolvedor .NET Full Stack Pleno
 
 ##
 
-📍 Sempre em busca de desafios e novas oportunidades para inovar! 🚀
+“A melhor maneira de prever o futuro é criá-lo”, Abraham Lincoln.
