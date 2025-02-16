@@ -22,7 +22,7 @@ Estou atuando como Desenvolvedor .NET Full Stack Pleno
 - Certificado Azure Cloud
 - Certificado Scrum fudamentals
 
-## 🚀 Atualmente mais focado em
+## 🧑‍💻 Atualmente mais focado em
 
 <div display='inline'>
   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -44,17 +44,13 @@ Estou atuando como Desenvolvedor .NET Full Stack Pleno
 - Otimização e melhorias de desenpenho em APIs de Autenticação "**IdentityServer**"
 - Experiencia em sustenação, otmização e aprimoramento de aplicações .netFramework < "**Projetos legados**"
 
-## 🎯 Soft Skills
+##
 
-- Trabalho em equipe: Valorizo a colaboração e a troca de conhecimento
-- Resolvedor de problemas
-- Comunicação eficaz: Clareza ao expressar ideias e conceitos técnicos
-- Adaptabilidade: Aberto a novos desafios e tecnologias
-- Gestão de tempo: Priorização e organização para entrega de projetos no prazo
+### Outras Redes
+<a href='https://linkedin.com/in/joão-vitor-tadei-67930119b'>
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
 
-## 📢 Contato
-
--📧 E-mail: joao.vitortadei@gmail.com
--🔗 [LinkedIn] (https://linkedin.com/in/joão-vitor-tadei-67930119b)
+##
 
 📍 Sempre em busca de desafios e novas oportunidades para inovar! 🚀
