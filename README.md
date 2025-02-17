@@ -39,10 +39,10 @@ Estou atuando como Desenvolvedor .NET Full Stack Pleno
 
 - Atuação no setor público como **Desenvolvedor web full stack .Net**
 - Desenvolvimento no setor de gestão e vendas, "**PDVs**
-- Area de delivery como **Desenvolvedor web full stack .Net** setor de rotas e finaceiro
+- Área de delivery como **Desenvolvedor web full stack .Net** setor de rotas e financeiro
 - ETL de dados para tratativas de LGPD
 - Otimização e melhorias de desenpenho em APIs de Autenticação "**IdentityServer**"
-- Experiencia em sustenação, otmização e aprimoramento de aplicações .netFramework < "**Projetos legados**"
+- Experiência em sustentação, otimização e aprimoramento de aplicações .netFramework < "**Projetos legados**"
 
 ##
 
